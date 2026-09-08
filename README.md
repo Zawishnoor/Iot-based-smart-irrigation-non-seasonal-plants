@@ -41,7 +41,7 @@ The system uses a **dual-NodeMCU architecture** that separates environmental mon
 - **FieldSync:** provides the user interface for monitoring, control, thresholds, analytics, and alerts.
 
 <p align="center">
-  <img src="architecture/system-architecture.png" alt="IoT Smart Irrigation System Architecture" width="90%">
+  <img src="architecture/architecture-design.png" alt="IoT Smart Irrigation System Architecture" width="90%">
 </p>
 
 ### Data and Control Flow
